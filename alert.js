@@ -1,4 +1,4 @@
 // alert("shit!");
-// res=prompt("你多大了？","20");
-// alert(`原来你${res}了！`);
+ res=prompt("可以告诉我你的名字吗？","李华");
+ alert(`你好${res}！`);
 // alert("lalala");
